@@ -41,7 +41,7 @@ GoGPT Sentence Completion Tool is a powerful and efficient Go (Golang) applicati
     go run main.go
 ```
 
-Takes two numbers and returns the sum.
+
 
 
 ## Contributing
